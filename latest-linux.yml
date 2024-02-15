@@ -1,0 +1,9 @@
+version: 1.0.3
+files:
+  - url: Pixsoffice-Albums-1.0.3.AppImage
+    sha512: Pz8u9GyBVlDmZzrJZTBs67eq2r6TdgR37YkNMtZqRpDYuUrYmh6ubV9t5/RPIH1nOnIhn3PyH/+2AOIpSscyCQ==
+    size: 107338912
+    blockMapSize: 113844
+path: Pixsoffice-Albums-1.0.3.AppImage
+sha512: Pz8u9GyBVlDmZzrJZTBs67eq2r6TdgR37YkNMtZqRpDYuUrYmh6ubV9t5/RPIH1nOnIhn3PyH/+2AOIpSscyCQ==
+releaseDate: '2024-02-12T17:43:51.328Z'

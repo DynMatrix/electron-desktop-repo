@@ -1,0 +1,17 @@
+version: 1.0.3
+files:
+  - url: Pixsoffice-Albums-1.0.3-arm64-mac.zip
+    sha512: IlAoIZHGYPNvsMfermp+Jt7XwUPiPXORTjMCZ9wqcprkArnmvFZddcgRlnZq9pI0RPb7lMcybdHKkgwZemYqDw==
+    size: 97149122
+  - url: Pixsoffice-Albums-1.0.3-mac.zip
+    sha512: Jc5v07w7Ig2ryevsxlzTssGM52klHjDbciiB872ilVUFGiHrAsEPf/nfVdOqXedbwHNjP0p7MLynBj9zphppww==
+    size: 99898836
+  - url: Pixsoffice-Albums-1.0.3-arm64.dmg
+    sha512: nBRdrbkWRzgo5Flu6WCYSVn+vWghW9nR4OT+fFF+JVfvRMimbHijcvHNav+EFmm7JgHGGb/QSJlSWT5v1+aFzw==
+    size: 100840477
+  - url: Pixsoffice-Albums-1.0.3.dmg
+    sha512: PgjX6WVVUP8Ngo2RXw7nu78T5Ua3NpRFF9fHGesmnKzsG7+j2D9jGUX7NYUk3cTzhRDQRyiMMSLvHU6w/il7tg==
+    size: 103487605
+path: Pixsoffice-Albums-1.0.3-arm64-mac.zip
+sha512: IlAoIZHGYPNvsMfermp+Jt7XwUPiPXORTjMCZ9wqcprkArnmvFZddcgRlnZq9pI0RPb7lMcybdHKkgwZemYqDw==
+releaseDate: '2024-02-12T17:43:51.328Z'
